@@ -1,0 +1,13 @@
+zombicide
+zombicide.action
+zombicide.actor
+zombicide.actor.survivor
+zombicide.actor.zombie
+zombicide.game
+zombicide.grid
+zombicide.grid.cell
+zombicide.grid.cell.door
+zombicide.listchooser
+zombicide.listchooser.util
+zombicide.tool
+zombicide.weapon
